@@ -1,1 +1,0 @@
-C:\Users\xerather\source\repos\Hacka\Hacka\Client\bin\Release\net7.0\publish\web.config
