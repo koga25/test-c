@@ -1,0 +1,3 @@
+C:\Users\xerather\source\repos\Hacka\Hacka\Shared\bin\Release\net7.0\publish\Hacka.Shared.dll
+C:\Users\xerather\source\repos\Hacka\Hacka\Shared\bin\Release\net7.0\publish\Hacka.Shared.deps.json
+C:\Users\xerather\source\repos\Hacka\Hacka\Shared\bin\Release\net7.0\publish\Hacka.Shared.pdb
